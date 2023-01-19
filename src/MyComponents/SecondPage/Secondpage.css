@@ -1,0 +1,27 @@
+.vise-verse {
+    background-color: #000;
+    color: #fff;
+}
+
+.text-image-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.text-image-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    padding-left: 8%;
+}
+
+.tv-image {
+    width: 40%;
+    padding-right: 5%;
+}

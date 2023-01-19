@@ -1,0 +1,19 @@
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 200px;
+}
+
+.our-story-card-title h1{
+    font-size: 60px;
+    word-spacing: 15px;
+    line-height: 75px;
+    text-align: center;
+}
+
+.our-story-card-subtitle {
+    font-weight: 400;
+}

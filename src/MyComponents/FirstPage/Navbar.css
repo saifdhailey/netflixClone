@@ -1,0 +1,21 @@
+.content {
+    display: flexbox;
+    color: #fff;
+    background-image: url('../Images/background.jpeg');
+    width: 100%;
+}
+
+.navbar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-logo {
+    width: 15%;
+    margin-left: 5%;
+}
+
+.navbar-button {
+    padding-right: 5%;
+}

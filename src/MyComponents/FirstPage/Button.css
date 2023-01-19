@@ -1,0 +1,15 @@
+.main-button {
+    margin-right: 15px;
+}
+
+.english-btn::after {
+    content: "\e898";
+    font-family: nf-icon;
+    font-size: 6px;
+    pointer-events: none;
+    position: absolute;
+}
+
+select {
+    appearance: none;
+}

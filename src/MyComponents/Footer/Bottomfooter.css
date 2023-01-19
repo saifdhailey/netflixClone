@@ -1,0 +1,33 @@
+.footer-links {
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #000;
+    color: #fff;
+}
+
+.footer-details { 
+    color: #3e4347;
+    padding-left: 40px;
+}
+
+.unorderedlist {
+    display: grid;
+    justify-items: start;
+    grid-template-columns: auto auto auto auto;
+    padding: 0
+}
+
+.footer-link-item {
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+
+.call-contact {
+    display: flex;
+}
+
+.branding-netflix {
+    display: flex;
+}
+
